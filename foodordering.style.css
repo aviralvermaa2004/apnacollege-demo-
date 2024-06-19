@@ -1,0 +1,107 @@
+body{
+    background-color:black;
+    color: white;
+}
+
+
+header{
+    text-align: center;
+    background-color: orangered;
+    padding: 15px;
+}
+
+p{
+    font-size: large;
+    font-style: italic;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+#parent{
+    width: 100vw;
+    height: 600px;
+    background-color: antiquewhite;
+    border: 5px solid black;
+    margin:20px auto;
+    display: flex;
+ } 
+button{
+    background-color: white;
+    text-align: center;
+}
+header{
+    text-align: center;
+    background-color: whitesmoke;
+    color: white;
+    
+}
+header{
+    text-align: center;
+    background-color: black;
+
+}
+
+div{
+    padding: 20px;
+    background-color: orangered;
+    
+}
+nav{
+    text-align: center;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+nav button{
+    text-align: center;
+    color:white;
+    background-color: orangered;
+    padding: 10px;
+    margin: 10px;
+}
+
+div1{
+    background-color: black;
+
+}
+h3{
+    /* font-style: italic */
+    font-family: sans-serif;
+    font-size: large;
+}
+h2{
+  font-family: sans-serif;
+  font-size: large;
+}
+
+p1{
+    text-align: center;
+    text-shadow: 20px;
+    text-decoration: wavy;
+}
+
+form{
+    top:190%;
+    left: 190%;
+    text-align: left;
+    color: orangered;
+    background-color:black
+}
+button{
+    margin: 20px;
+    color: orangered;
+    background-color: black;
+}
+
+span1{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-display: 70px;
+}
+p1{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-display: 70px;
+}
